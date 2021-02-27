@@ -1,0 +1,7 @@
+C:\Users\Erick\Desktop\Programas_VS_2019\Aulas C#\Exercicios\Impar_ou_Par\Impar_ou_Par\bin\Debug\Impar_ou_Par.exe.config
+C:\Users\Erick\Desktop\Programas_VS_2019\Aulas C#\Exercicios\Impar_ou_Par\Impar_ou_Par\bin\Debug\Impar_ou_Par.exe
+C:\Users\Erick\Desktop\Programas_VS_2019\Aulas C#\Exercicios\Impar_ou_Par\Impar_ou_Par\bin\Debug\Impar_ou_Par.pdb
+C:\Users\Erick\Desktop\Programas_VS_2019\Aulas C#\Exercicios\Impar_ou_Par\Impar_ou_Par\obj\Debug\Impar_ou_Par.csprojAssemblyReference.cache
+C:\Users\Erick\Desktop\Programas_VS_2019\Aulas C#\Exercicios\Impar_ou_Par\Impar_ou_Par\obj\Debug\Impar_ou_Par.csproj.CoreCompileInputs.cache
+C:\Users\Erick\Desktop\Programas_VS_2019\Aulas C#\Exercicios\Impar_ou_Par\Impar_ou_Par\obj\Debug\Impar_ou_Par.exe
+C:\Users\Erick\Desktop\Programas_VS_2019\Aulas C#\Exercicios\Impar_ou_Par\Impar_ou_Par\obj\Debug\Impar_ou_Par.pdb

@@ -1,0 +1,7 @@
+C:\Users\Erick\Desktop\Programas_VS_2019\Aulas C#\Exercicios\Verificador__de_maior_de_Idade\Verificador__de_maior_de_Idade\bin\Debug\Verificador__de_maior_de_Idade.exe.config
+C:\Users\Erick\Desktop\Programas_VS_2019\Aulas C#\Exercicios\Verificador__de_maior_de_Idade\Verificador__de_maior_de_Idade\bin\Debug\Verificador__de_maior_de_Idade.exe
+C:\Users\Erick\Desktop\Programas_VS_2019\Aulas C#\Exercicios\Verificador__de_maior_de_Idade\Verificador__de_maior_de_Idade\bin\Debug\Verificador__de_maior_de_Idade.pdb
+C:\Users\Erick\Desktop\Programas_VS_2019\Aulas C#\Exercicios\Verificador__de_maior_de_Idade\Verificador__de_maior_de_Idade\obj\Debug\Verificador__de_maior_de_Idade.csprojAssemblyReference.cache
+C:\Users\Erick\Desktop\Programas_VS_2019\Aulas C#\Exercicios\Verificador__de_maior_de_Idade\Verificador__de_maior_de_Idade\obj\Debug\Verificador__de_maior_de_Idade.csproj.CoreCompileInputs.cache
+C:\Users\Erick\Desktop\Programas_VS_2019\Aulas C#\Exercicios\Verificador__de_maior_de_Idade\Verificador__de_maior_de_Idade\obj\Debug\Verificador__de_maior_de_Idade.exe
+C:\Users\Erick\Desktop\Programas_VS_2019\Aulas C#\Exercicios\Verificador__de_maior_de_Idade\Verificador__de_maior_de_Idade\obj\Debug\Verificador__de_maior_de_Idade.pdb

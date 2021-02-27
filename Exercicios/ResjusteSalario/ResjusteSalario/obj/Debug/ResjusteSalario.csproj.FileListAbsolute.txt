@@ -1,0 +1,7 @@
+C:\Users\Erick\Desktop\Programas_VS_2019\Aulas C#\Exercicios\ResjusteSalario\ResjusteSalario\bin\Debug\ResjusteSalario.exe.config
+C:\Users\Erick\Desktop\Programas_VS_2019\Aulas C#\Exercicios\ResjusteSalario\ResjusteSalario\bin\Debug\ResjusteSalario.exe
+C:\Users\Erick\Desktop\Programas_VS_2019\Aulas C#\Exercicios\ResjusteSalario\ResjusteSalario\bin\Debug\ResjusteSalario.pdb
+C:\Users\Erick\Desktop\Programas_VS_2019\Aulas C#\Exercicios\ResjusteSalario\ResjusteSalario\obj\Debug\ResjusteSalario.csproj.CoreCompileInputs.cache
+C:\Users\Erick\Desktop\Programas_VS_2019\Aulas C#\Exercicios\ResjusteSalario\ResjusteSalario\obj\Debug\ResjusteSalario.exe
+C:\Users\Erick\Desktop\Programas_VS_2019\Aulas C#\Exercicios\ResjusteSalario\ResjusteSalario\obj\Debug\ResjusteSalario.pdb
+C:\Users\Erick\Desktop\Programas_VS_2019\Aulas C#\Exercicios\ResjusteSalario\ResjusteSalario\obj\Debug\ResjusteSalario.csprojAssemblyReference.cache

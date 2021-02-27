@@ -1,0 +1,7 @@
+C:\Users\Erick\Desktop\Programas_VS_2019\Aulas C#\Exercicios\Media_5_Alunos\Media_5_Alunos\obj\Debug\Media_5_Alunos.csprojAssemblyReference.cache
+C:\Users\Erick\Desktop\Programas_VS_2019\Aulas C#\Exercicios\Media_5_Alunos\Media_5_Alunos\obj\Debug\Media_5_Alunos.csproj.CoreCompileInputs.cache
+C:\Users\Erick\Desktop\Programas_VS_2019\Aulas C#\Exercicios\Media_5_Alunos\Media_5_Alunos\bin\Debug\Media_5_Alunos.exe.config
+C:\Users\Erick\Desktop\Programas_VS_2019\Aulas C#\Exercicios\Media_5_Alunos\Media_5_Alunos\bin\Debug\Media_5_Alunos.exe
+C:\Users\Erick\Desktop\Programas_VS_2019\Aulas C#\Exercicios\Media_5_Alunos\Media_5_Alunos\bin\Debug\Media_5_Alunos.pdb
+C:\Users\Erick\Desktop\Programas_VS_2019\Aulas C#\Exercicios\Media_5_Alunos\Media_5_Alunos\obj\Debug\Media_5_Alunos.exe
+C:\Users\Erick\Desktop\Programas_VS_2019\Aulas C#\Exercicios\Media_5_Alunos\Media_5_Alunos\obj\Debug\Media_5_Alunos.pdb

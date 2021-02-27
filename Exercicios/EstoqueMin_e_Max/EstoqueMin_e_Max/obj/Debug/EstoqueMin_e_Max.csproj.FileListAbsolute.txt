@@ -1,0 +1,7 @@
+C:\Users\Erick\Desktop\Programas_VS_2019\Aulas C#\Exercicios\EstoqueMin_e_Max\EstoqueMin_e_Max\obj\Debug\EstoqueMin_e_Max.csprojAssemblyReference.cache
+C:\Users\Erick\Desktop\Programas_VS_2019\Aulas C#\Exercicios\EstoqueMin_e_Max\EstoqueMin_e_Max\obj\Debug\EstoqueMin_e_Max.csproj.CoreCompileInputs.cache
+C:\Users\Erick\Desktop\Programas_VS_2019\Aulas C#\Exercicios\EstoqueMin_e_Max\EstoqueMin_e_Max\bin\Debug\EstoqueMin_e_Max.exe.config
+C:\Users\Erick\Desktop\Programas_VS_2019\Aulas C#\Exercicios\EstoqueMin_e_Max\EstoqueMin_e_Max\bin\Debug\EstoqueMin_e_Max.exe
+C:\Users\Erick\Desktop\Programas_VS_2019\Aulas C#\Exercicios\EstoqueMin_e_Max\EstoqueMin_e_Max\bin\Debug\EstoqueMin_e_Max.pdb
+C:\Users\Erick\Desktop\Programas_VS_2019\Aulas C#\Exercicios\EstoqueMin_e_Max\EstoqueMin_e_Max\obj\Debug\EstoqueMin_e_Max.exe
+C:\Users\Erick\Desktop\Programas_VS_2019\Aulas C#\Exercicios\EstoqueMin_e_Max\EstoqueMin_e_Max\obj\Debug\EstoqueMin_e_Max.pdb
